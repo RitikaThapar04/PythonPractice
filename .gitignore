@@ -7,4 +7,3 @@ terraform.lock.hcl
 crash.log
 .terraform/
 *.exe
-*.txt
