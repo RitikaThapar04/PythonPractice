@@ -6,3 +6,4 @@ terraform.lock.hcl
 *.tfstate.backup
 crash.log
 .terraform/
+*.exe

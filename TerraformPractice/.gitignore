@@ -1,8 +1,0 @@
-terraform.exe
-*.zip
-*.tar.gz
-terraform.lock.hcl
-*.tfstate
-*.tfstate.backup
-crash.log
-.terraform/
